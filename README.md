@@ -46,7 +46,7 @@ The server will run on http://localhost:3000.
 
 ## API Endpoints
 
-###Health Check
+### Health Check - http://localhost:3000/ping
 
 - GET /ping
 Check if the server is running.
@@ -56,7 +56,7 @@ Response:
 true
 ```
 
-### Submit a Form
+### Submit a Form - http://localhost:3000/submit
  
 - POST /submit
 Submit a new form entry.
@@ -78,7 +78,7 @@ Response:
 }
 ```
 
-### Read a Submission
+### Read a Submission -http://localhost:3000/read?index=1
   
 - GET /read
 Read a specific submission by index.
@@ -97,7 +97,7 @@ Response:
 }
 ```
 
-### Update a Submission
+### Update a Submission - http://localhost:3000/update
   
 - PUT /update
 Update a specific submission by index.
@@ -121,7 +121,7 @@ Response:
 200 OK
 ```
 
-### Delete a Submission
+### Delete a Submission - http://localhost:3000/count
   
 - DELETE /delete
 Delete a specific submission by index.
@@ -134,7 +134,7 @@ Response:
 200 OK
 ```
 
-### Search Submissions
+### Search Submissions - http://localhost:3000/search?email=ayushbcse2024@Gmail.com
   
 - GET /search
 Search submissions by email.
@@ -155,7 +155,7 @@ Response:
 ]
 ```
 
-### Get Submission Count
+### Get Submission Count - http://localhost:3000/count
 
 - GET /count
 Get the total count of submissions.
