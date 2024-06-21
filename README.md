@@ -78,7 +78,7 @@ Response:
 }
 ```
 
-### Read a Submission -http://localhost:3000/read?index=1
+### Read a Submission - http://localhost:3000/read?index=1
   
 - GET /read
 Read a specific submission by index.
