@@ -168,12 +168,12 @@ Response:
 ## Code Structure
 
 ### Main Files
-src/routes.ts: Defines all the API endpoints and their logic.
-src/types.ts: Contains TypeScript type definitions.
+- src/routes.ts: Defines all the API endpoints and their logic.
+- src/types.ts: Contains TypeScript type definitions.
 
 ### Helper Functions
-readDB: Reads the database file (db.json).
-writeDB: Writes to the database file (db.json).
+- readDB: Reads the database file (db.json).
+- writeDB: Writes to the database file (db.json).
 
 ### Running Tests
 To test the API endpoints, you can use tools like Postman or cURL. Make sure the server is running (npm start) before sending requests.
