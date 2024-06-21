@@ -1,0 +1,25 @@
+{
+  "submissions": [
+    {
+      "name": "John Doe Updated 3",
+      "email": "john.doe.updated 3@example.com",
+      "phone": "23e2",
+      "github_link": "https://github.com/john_doe_updated/my_slidely_task",
+      "stopwatch_time": "00:01:30"
+    },
+    {
+      "name": "John Doe updated 2",
+      "email": "johndoe2232@gmail.com",
+      "phone": "232242",
+      "github_link": "https://github.com/john_doe/my_slidely_task",
+      "stopwatch_time": "00:01:19"
+    },
+    {
+      "name": "Ayush Barai",
+      "email": "ayushbcse2024@Gmail.com",
+      "phone": "9359486070",
+      "github_link": "github.com/AyushBarai",
+      "stopwatch_time": "00:00:24"
+    }
+  ]
+}

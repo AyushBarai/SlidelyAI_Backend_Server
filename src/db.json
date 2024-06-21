@@ -1,0 +1,25 @@
+{
+  "submissions": [
+    {
+      "name": "Ayush",
+      "email": "Ayush",
+      "phone": "98",
+      "github_link": "AyushBarai",
+      "stopwatch_time": "00:00:07"
+    },
+    {
+      "Name": "John Doe Updated",
+      "Email": "john.doe.updated@example.com",
+      "Phone": "9876543210",
+      "GithubLink": "https://github.com/john_doe_updated/my_slidely_task",
+      "StopwatchTime": "00:01:30"
+    },
+    {
+      "name": "Testing new API 3",
+      "email": "NEWDELETE API",
+      "phone": "1234567890",
+      "github_link": "GitHub",
+      "stopwatch_time": "00:00:04"
+    }
+  ]
+}
